@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ho_background">
+    
+    <ImageView
+        android:id="@+id/mcdonaldsLogo"
+        android:layout_width="43dp"
+        android:layout_height="43dp"
+        android:src="@drawable/mcdonalds"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="30dp"/>
+
+    <ImageView
+        android:layout_width="171dp"
+        android:layout_height="140dp"
+        android:src="@drawable/sandwit"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="140dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sandwich Chicken"
+        android:textColor="#FFFFFF"
+        android:fontFamily="@font/scada_regular"
+        android:textSize="16dp"
+        tools:layout_editor_absoluteX="223dp"
+        tools:layout_editor_absoluteY="144dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/scada_regular"
+        android:text="Jumlah"
+        android:textColor="#FFFFFF"
+        android:textSize="14dp"
+        tools:ignore="MissingConstraints,TextSizeCheck"
+        tools:layout_editor_absoluteX="223dp"
+        tools:layout_editor_absoluteY="191dp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/scada_regular"
+        android:text="1"
+        android:textColor="#FFFFFF"
+        android:textSize="18dp"
+        tools:layout_editor_absoluteX="223dp"
+        tools:layout_editor_absoluteY="229dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/scada_regular"
+        android:text="Total"
+        android:textColor="#FFFFFF"
+        android:textSize="18dp"
+        tools:ignore="DuplicateIds,MissingConstraints,TextSizeCheck"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="619dp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/scada_regular"
+        android:text="Rp. 25.000"
+        android:textColor="#FFFFFF"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="648dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:background="@drawable/customm_button"
+        android:fontFamily="@font/scada_regular"
+        android:text="Order New"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        tools:ignore="MissingConstraints,TextContrastCheck"
+        tools:layout_editor_absoluteX="192dp"
+        tools:layout_editor_absoluteY="629dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
