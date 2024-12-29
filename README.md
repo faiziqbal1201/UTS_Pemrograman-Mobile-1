@@ -1,4 +1,4 @@
-# Project UTS { Semester 3 } <img src=https://i.pinimg.com/564x/fd/88/8c/fd888c43145aa84d5e3037082d470910.jpg width="130px">
+# Project UTS & UAS{ Semester 3 } <img src=https://i.pinimg.com/564x/fd/88/8c/fd888c43145aa84d5e3037082d470910.jpg width="130px">
 
 ## Profil
 |  |  |
@@ -12,6 +12,7 @@
 ## Definisi Wacaffee App
 **Wacaffee App** adalah aplikasi pemesanan makanan dan minuman yang memungkinkan pengguna untuk memesan dan menyesuaikan produk dengan cara yang cepat, intuitif, dan interaktif. Terinspirasi oleh antarmuka mesin pembelian di McDonald's, Wacaffee App dirancang untuk memberikan pengalaman pemesanan yang modern dan mudah digunakan, memprioritaskan kenyamanan serta aksesibilitas pengguna.
 
+## Status project : Phase 1
 ## Output
 
 ![](Screnchot/S1.png)
@@ -68,5 +69,26 @@
 ***Keterangan :***
 
 - Selanjutnya, masuk tahap **Konfirmasi pembelian sukses** jika kita ``klik tombol button Order New,`` maka akan muncul tampilan teks *"Pesanan Anda sedang diproses, Konfirmasi Sukses !"*.
+
+## Status project : Phase 2
+Pada tahap ini, fokus utama kami adalah meningkatkan kualitas desain aplikasi untuk memberikan tampilan yang lebih modern, menarik, dan responsif. Perubahan desain mencakup:
+## Apa yang Baru di Phase 2?
+* Splash Screen ketika aplikasi dibuka menampilkan logo selama 3 detik
+* Palet warna baru yang dirancang untuk menarik perhatian pengguna.
+* Penambahan Launcher Icon baru untuk identitas aplikasi.
+* Perubahan Terhadap font Wacaffee
+* perubahan image di SplashScreen 
+* penambahab Vector untuk melihat pemesanan makanan.
+
+### Launcher Icon
+![](Screnchot/S9.png)
+
+## Fitur Utama
+### Splash Screen
+![](Screnchot/S10.jpg)
+### Beranda 
+![](Screnchot/S11.jpg)
+### Hasil Pemesanan
+![](Screnchot/S12.jpg)
 
 ## SELESAI <img align="center" alt="iqbal-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
